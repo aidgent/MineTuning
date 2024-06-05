@@ -44,3 +44,5 @@ The canonical mine-tuning example is an interaction where each AI response is gi
 
 ### About
 Mine-tuning is a vision for cognitive collaboration, first translated into English and Python by [Raymond Weitekamp](https://raw.works/).
+
+hello, world
