@@ -2,6 +2,8 @@
 
 Mine-tuning is a methodology for synchronizing human and AI attention. Mine-tuning is a state-of-mind(s), an approach to continuous learning and improvement through on-the-job feedback. Mine-tuning offers a rapid approach to customizing AI programs to our personal preferences, professions, and priorities.
 
+Let's build together.
+
 **TL;DR - Mine-tuning makes it easy for humans to teach AI how to do a good job.**
 
 ## Key Principles of Mine-tuning: 
